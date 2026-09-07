@@ -111,3 +111,6 @@ Incident Resolved
 - Multi-server monitoring
 - Docker deployment
 - Production WSGI deployment
+## Dashboard Preview
+
+![AI Infrastructure Monitor](dashboard.png)
